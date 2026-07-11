@@ -7,9 +7,9 @@ but first u need to download brew . its essential a software to navigate the ter
 
 then u need to download 
 
-git
-  zsh-autosuggestions
-  zsh-syntax-highlighting
+git,
+,zsh-autosuggestions
+, zsh-syntax-highlighting
 
 
   also u need to use 
